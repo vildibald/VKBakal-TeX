@@ -1,0 +1,45 @@
+\select@language {slovak}
+\contentsline {part}{I\hspace {1em}N\'avrh rie\v senia}{8}
+\contentsline {chapter}{\numberline {1}Splajn krivky}{9}
+\contentsline {subsection}{\numberline {1.0.1}Ilustra\v cn\'y pr\IeC {\'\i }klad}{9}
+\contentsline {subsection}{\numberline {1.0.2}Form\'alna defin\IeC {\'\i }cia splajnov}{10}
+\contentsline {subsection}{\numberline {1.0.3}Delenie splajnov}{11}
+\contentsline {section}{\numberline {1.1}B-splajny (B\'azov\'e splajny)}{12}
+\contentsline {subsection}{\numberline {1.1.1}Bell funkcie}{12}
+\contentsline {subsection}{\numberline {1.1.2}B-splajn}{15}
+\contentsline {paragraph}{Zostrojenie B-splajnu}{15}
+\contentsline {section}{\numberline {1.2}Glob\'alny B-splajn}{19}
+\contentsline {subsection}{\numberline {1.2.1}Pomocn\'e uzly}{20}
+\contentsline {subsection}{\numberline {1.2.2}Generovanie kontroln\'ych bodov B-splajnu}{21}
+\contentsline {section}{\numberline {1.3}Hermitove splajny}{25}
+\contentsline {subsection}{\numberline {1.3.1}B\'azov\'e funkcie}{25}
+\contentsline {subsection}{\numberline {1.3.2}Hermitova krivka}{27}
+\contentsline {paragraph}{Kon\v strukcia Hermitovho splajnu}{27}
+\contentsline {section}{\numberline {1.4}Clamped splajny}{30}
+\contentsline {paragraph}{Kon\v strukcia clamped splajnu (1)}{30}
+\contentsline {chapter}{\numberline {2}Nov\'y postup generovania clamped splajnov}{32}
+\contentsline {section}{\numberline {2.1}Zostrojenie}{32}
+\contentsline {paragraph}{Kon\v strukcia clamped splajnu}{32}
+\contentsline {part}{II\hspace {1em}Implement\'acia}{35}
+\contentsline {chapter}{\numberline {3}Microsoft Silverlight}{37}
+\contentsline {section}{\numberline {3.1}Architekt\'ura}{38}
+\contentsline {paragraph}{Core presentation framework}{38}
+\contentsline {paragraph}{.NET Framework for Silverlight}{38}
+\contentsline {subsection}{\numberline {3.1.1}XAML}{38}
+\contentsline {section}{\numberline {3.2}Grafika v Silverlight}{38}
+\contentsline {subsection}{\numberline {3.2.1}Transform\'acia s\'uradn\IeC {\'\i }c}{39}
+\contentsline {subsubsection}{Transforma\v cn\'e vz\v tahy}{40}
+\contentsline {paragraph}{Transform\'acia z WorldArea do PlotArea}{40}
+\contentsline {paragraph}{Transform\'acia z PlotArea do WorldArea}{40}
+\contentsline {chapter}{\numberline {4}V\'yvoj aplik\'acie}{42}
+\contentsline {section}{\numberline {4.1}Vytvorenie aplik\'acie}{42}
+\contentsline {section}{\numberline {4.2}Defin\IeC {\'\i }cie splajnov ako d\'atov\'ych typov}{44}
+\contentsline {subsection}{\numberline {4.2.1}Spline}{44}
+\contentsline {subsection}{\numberline {4.2.2}BSpline}{45}
+\contentsline {subsection}{\numberline {4.2.3}GlobalBSpline}{45}
+\contentsline {subsection}{\numberline {4.2.4}HermiteSpline}{46}
+\contentsline {subsection}{\numberline {4.2.5}ClampedSpline}{46}
+\contentsline {section}{\numberline {4.3}Generovanie a vykreslenie splajnov}{47}
+\contentsline {paragraph}{Vykreslenie clamped splajnu}{47}
+\contentsline {paragraph}{Vykreslenie uzlov a kontroln\'ych bodov}{48}
+\contentsline {part}{III\hspace {1em}Z\'aver}{52}

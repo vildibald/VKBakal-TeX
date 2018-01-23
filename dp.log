@@ -1,0 +1,663 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2016.2.5)  18 MAR 2016 00:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dp.tex
+(./dp.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./rnthesis.cls
+Document Class: rnthesis 2012/03/27 v1.0 Robert Novotny 'Thesis' class
+(c:/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
+
+(c:/texlive/2014/texmf-dist/tex/generic/babel-slovak/slovak.ldf
+Language: slovak 2008/07/06 v3.1a Slovak support from the babel system
+
+(c:/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+Package babel Info: Making ^ an active character on input line 123.
+Package babel Info: Making " an active character on input line 126.
+Package babel Info: Making ' an active character on input line 129.
+\cs@wordlen=\count89
+Package babel Info: Making - an active character on input line 294.
+))
+(c:/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(c:/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(c:/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(c:/texlive/2014/texmf-dist/tex/latex/base/cp1250.def
+File: cp1250.def 2014/04/30 v1.2b Input encoding file
+)) (./rnt-pic.sty
+File: rnt-pic.sty 2007/08/22 v0.2
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(c:/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+))
+(./rnt-thm.sty
+File: rnt-thm.sty 2004/04/19 v0.2
+ (c:/texlive/2014/texmf-dist/tex/latex/tools/theorem.sty
+Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks17
+\theorem@bodyfont=\toks18
+\theorempreskipamount=\skip43
+\theorempostskipamount=\skip44
+
+(c:/texlive/2014/texmf-dist/tex/latex/tools/thp.sty
+File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+))
+\c@veta=\count91
+)
+(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen106
+))
+(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks21
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks22
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks23
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count104
+\lst@gtempboxa=\box28
+\lst@token=\toks25
+\lst@length=\count105
+\lst@currlwidth=\dimen115
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen118
+
+(c:/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box29
+)
+(c:/texlive/2014/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+(c:/texlive/2014/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+) (./dp.aux
+
+LaTeX Warning: Label `eq:gb-spline_controlPoints' multiply defined.
+
+
+LaTeX Warning: Label `eq:gb-spline_controlPoints' multiply defined.
+
+)
+\openout1 = `dp.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+ Zoznam pouºitej literatúry
+(c:/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen119
+\scratchbox=\box30
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen120
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks27
+) (c:/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count118
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 160.
+
+
+(c:/texlive/2014/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [1
+
+{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for U+msa on input line 160.
+
+(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 160.
+
+(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1] [2] [3] (./dp.toc
+\p@rindent=\dimen121
+\p@rindent=\dimen122
+\p@rindent=\dimen123
+\p@rindent=\dimen124
+
+[4
+
+])
+\tf@toc=\write3
+\openout3 = `dp.toc'.
+
+ [5]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 174.
+
+ (c:/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 174.
+ [6
+
+] [7] [8
+
+]
+Kapitola 1.
+<cspline.png, id=41, 510.40688pt x 322.95656pt>
+File: cspline.png Graphic file (type png)
+ <use cspline.png>
+Package pdftex.def Info: cspline.png used on input line 219.
+(pdftex.def)             Requested size: 255.2028pt x 161.47787pt.
+ [9
+
+ <./cspline.png>] [10] [11]
+Overfull \hbox (2.1285pt too wide) in paragraph at lines 363--364
+[]\T1/cmr/m/n/12 Funkciu $[][]$ bu-deme v²e-obecne ozna-£o-va´ poj-mom
+ []
+
+[12] <bspline_basis_woAux.png, id=67, 557.83406pt x 302.63063pt>
+File: bspline_basis_woAux.png Graphic file (type png)
+
+<use bspline_basis_woAux.png>
+Package pdftex.def Info: bspline_basis_woAux.png used on input line 385.
+(pdftex.def)             Requested size: 361.20041pt x 195.95488pt.
+ [13] [14 <./bspline_basis_woAux.png>] [15]
+[16] [17] [18] <bspline_woAux.png, id=89, 557.83406pt x 302.63063pt>
+File: bspline_woAux.png Graphic file (type png)
+
+<use bspline_woAux.png>
+Package pdftex.def Info: bspline_woAux.png used on input line 556.
+(pdftex.def)             Requested size: 390.48117pt x 211.83998pt.
+ <apr_int.png, id=90, 262.73157pt x 178.41656pt>
+File: apr_int.png Graphic file (type png)
+
+<use apr_int.png>
+Package pdftex.def Info: apr_int.png used on input line 570.
+(pdftex.def)             Requested size: 262.73091pt x 178.4161pt.
+ [19 <./bspline_woAux.png>] [20 <./apr_int.png>]
+Overfull \hbox (41.97287pt too wide) in paragraph at lines 629--631
+[]\T1/cmr/m/n/12 Nech $\OMS/cmsy/m/n/12 h\OML/cmm/m/it/12 v[]; v[]; v[]\OMS/cms
+y/m/n/12 i \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 h\OT1/cmr/m/n/12 2\OML/cmm/m/it/1
+2 ; []; \OT1/cmr/m/n/12 5\OMS/cmsy/m/n/12 i$ \T1/cmr/m/n/12 sú uzly. Po-loºme £
+íslo $\OML/cmm/m/it/12 h$ \T1/cmr/m/n/12 a $\OMS/cmsy/m/n/12 h\OML/cmm/m/it/12 
+u[]; u[]; :::; u[]; u[]\OMS/cmsy/m/n/12 i$
+ []
+
+[21]
+LaTeX Font Info:    Calculating math sizes for size <3> on input line 663.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.09999> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.5> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <3> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 663.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <3> not available
+(Font)              size <5> substituted on input line 678.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 678.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 678.
+
+[22] [23]
+Overfull \hbox (4.14674pt too wide) in paragraph at lines 810--811
+[]\T1/cmr/m/n/12 Na ko-niec teda mô-ºeme pri-stú-pi´ k for-mál-nej de-fi-níci g
+lo-bál-neho B-splajnu. 
+ []
+
+[24] <hermite_basis.png, id=120, 557.83406pt x 302.63063pt>
+File: hermite_basis.png Graphic file (type png)
+
+<use hermite_basis.png>
+Package pdftex.def Info: hermite_basis.png used on input line 862.
+(pdftex.def)             Requested size: 390.48117pt x 211.83998pt.
+ [25] [26 <./hermite_basis.png>]
+Overfull \hbox (0.22975pt too wide) in paragraph at lines 898--900
+\T1/cmr/m/n/12 splajnu. Na je-den seg-ment nám sta-£ia dva uzly, ¤a-lej funk£né
+ hod-noty splajnu
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 929.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 929.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <9.5> not available
+(Font)              size <9> substituted on input line 929.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 929.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 929.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 931.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 934.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 937.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 941.
+
+
+Overfull \hbox (2.57034pt too wide) detected at line 943
+[][]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 ) = []
+ []
+
+[27] [28] <hermite_wBasis.png, id=141, 557.83406pt x 302.63063pt>
+File: hermite_wBasis.png Graphic file (type png)
+
+<use hermite_wBasis.png>
+Package pdftex.def Info: hermite_wBasis.png used on input line 1001.
+(pdftex.def)             Requested size: 390.48117pt x 211.83998pt.
+ [29 <./hermite_wBasis.png>]
+Overfull \hbox (9.05176pt too wide) in paragraph at lines 1020--1021
+ \T1/cmr/bx/n/12 Kon-²truk-cia clam-ped splajnu (1)[] \T1/cmr/m/n/12 Nech $\OML
+/cmm/m/it/12 k$ \T1/cmr/m/n/12 je z $\U/msb/m/n/12 N$\T1/cmr/m/n/12 , $\OML/cmm
+/m/it/12 k \OMS/cmsy/m/n/12 ^^U \OT1/cmr/m/n/12 2$\T1/cmr/m/n/12 , $\OML/cmm/m/
+it/12 V \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 h\OML/cmm/m/it/12 v[]; [] ; v[]\OMS/
+cmsy/m/n/12 i$
+ []
+
+[30] [31]
+Kapitola 2.
+[32
+
+] [33]
+Overfull \hbox (6.43176pt too wide) in paragraph at lines 1209--1211
+[]\T1/cmr/m/n/12 Hodnoty $\OML/cmm/m/it/12 d[]$\T1/cmr/m/n/12 , $\OML/cmm/m/it/
+12 d[]$\T1/cmr/m/n/12 , ...,$\OML/cmm/m/it/12 d[]$ \T1/cmr/m/n/12 pred-sta-vujú
+ prvé de-ri-vá-cie her-mi-tov-ského splajnu
+ []
+
+[34] [35
+
+] [36]
+Kapitola 3.
+<silverlight.jpg, id=169, 642.4pt x 363.3575pt>
+File: silverlight.jpg Graphic file (type jpg)
+ <use silverlight.jpg>
+Package pdftex.def Info: silverlight.jpg used on input line 1228.
+(pdftex.def)             Requested size: 128.47772pt x 72.6702pt.
+ [37
+
+ <./silverlight.jpg>]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 1263
+.
+ (c:/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [38]
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 1353--1357
+
+ []
+
+[40] <pawa.png, id=183, 481.8pt x 271.0125pt>
+File: pawa.png Graphic file (type png)
+ <use pawa.png>
+Package pdftex.def Info: pawa.png used on input line 1358.
+(pdftex.def)             Requested size: 289.08221pt x 162.60875pt.
+ [41 <./pawa.png>]
+Kapitola 4.
+<helloWorld.png, id=188, 150.5625pt x 75.28125pt>
+File: helloWorld.png Graphic file (type png)
+ <use helloWorld.png>
+Package pdftex.def Info: helloWorld.png used on input line 1377.
+(pdftex.def)             Requested size: 150.56212pt x 75.28105pt.
+ [42
+
+ <./helloWorld.png>]
+Overfull \hbox (6.80695pt too wide) in paragraph at lines 1388--1389
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][]  
+ []
+
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1414.
+[43] [44]
+Overfull \hbox (14.76773pt too wide) in paragraph at lines 1491--1493
+[]\T1/cmr/m/it/12 RightDerivationEllipse \T1/cmr/m/n/12 Pred-sta-vuje vi-zu-áln
+u re-pre-zen-tá-ciu at-ri-bútu \T1/cmr/m/it/12 Right-
+ []
+
+[45] <gbspline_input.png, id=202, 152.06813pt x 341.02406pt>
+File: gbspline_input.png Graphic file (type png)
+
+<use gbspline_input.png>
+Package pdftex.def Info: gbspline_input.png used on input line 1555.
+(pdftex.def)             Requested size: 121.65466pt x 272.81961pt.
+ [46] [47 <./gbspline_input.png>] [48] [49]
+<csplineCP.png, id=218, 321.45094pt x 149.05687pt>
+File: csplineCP.png Graphic file (type png)
+ <use csplineCP.png>
+Package pdftex.def Info: csplineCP.png used on input line 1636.
+(pdftex.def)             Requested size: 321.45015pt x 149.0565pt.
+ [50 <./csplineCP.png>] [51] [52
+
+] <apka.png, id=230, 759.58781pt x 502.12593pt>
+File: apka.png Graphic file (type png)
+
+<use apka.png>
+Package pdftex.def Info: apka.png used on input line 1675.
+(pdftex.def)             Requested size: 303.82974pt x 200.84682pt.
+ [53 <./apka.png>]
+Overfull \hbox (4.83519pt too wide) in paragraph at lines 1685--1686
+[]\T1/cmr/m/n/12 http://msdn.microsoft.com/en-us/library/bb404713%28v=vs.95%29.
+aspx 
+ []
+
+[54
+
+] (./dp.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.5pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5312 strings out of 493117
+ 69607 string characters out of 6138985
+ 190674 words of memory out of 5000000
+ 8635 multiletter control sequences out of 15000+600000
+ 33172 words of font info for 85 fonts, out of 8000000 for 9000
+ 1142 hyphenation exceptions out of 8191
+ 38i,17n,40p,548b,1617s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2014/texmf-dis
+t/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><c:/texlive/2014/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi5.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2014/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
+fb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2014/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmti12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.
+pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+<c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texliv
+e/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2014/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2014/texmf-dist/fo
+nts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2014/texmf-dist/fonts/type1/
+public/cm-super/sfrm0500.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-
+super/sfrm0600.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm
+0800.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><
+c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive
+/2014/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2014/texm
+f-dist/fonts/type1/public/cm-super/sfss1728.pfb><c:/texlive/2014/texmf-dist/fon
+ts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2014/texmf-dist/fonts/type1/p
+ublic/cm-super/sfsx1440.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-s
+uper/sfsx2488.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1
+200.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on dp.pdf (55 pages, 873731 bytes).
+PDF statistics:
+ 365 PDF objects out of 1000 (max. 8388607)
+ 246 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
